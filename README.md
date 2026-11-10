@@ -2,8 +2,8 @@
 
 Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con FastAPI.
 
-- **Aprendiz:** Nombre Apellido
-- **Curso y mecánica:** (complete)
+- **Aprendiz:** Angelina Michel Ochoa Escalante
+- **Curso y mecánica:** Matemáticas, Memoria de parejas
 - **Aplicación publicada:** (complete con la URL de Render)
 
 ## Ejecutar en su equipo
