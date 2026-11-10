@@ -4,7 +4,7 @@ Reemplace los valores de ejemplo con sus datos. La página de inicio,
 la API y el script entregar.py los leen de este archivo.
 """
 
-APRENDIZ = "Angelina Ochoa"
+APRENDIZ = "Angelina Michel Ochoa Escalante"
 CURSO = "Matematicas"
 MECANICA = "Memoria de parejas"
 
