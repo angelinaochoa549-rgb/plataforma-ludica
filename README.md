@@ -4,7 +4,7 @@ Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con 
 
 - **Aprendiz:** Angelina Michel Ochoa Escalante
 - **Curso y mecánica:** Matemáticas, Memoria de parejas
-- **Aplicación publicada:** (complete con la URL de Render)
+- **Aplicación publicada:** "https://plataforma-ludica-pyw7.onrender.com"
 
 ## Ejecutar en su equipo
 
